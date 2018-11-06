@@ -1,0 +1,12 @@
+com\itheima\service\OrderService.class
+com\itheima\service\impl\SysLogServiceImpl.class
+com\itheima\service\ProductService.class
+com\itheima\service\impl\UserServiceImpl.class
+com\itheima\service\impl\RoleServiceImpl.class
+com\itheima\service\RoleService.class
+com\itheima\service\UserService.class
+com\itheima\service\impl\OrderServiceImpl.class
+com\itheima\service\impl\PermissionServiceImpl.class
+com\itheima\service\SysLogService.class
+com\itheima\service\impl\ProductServiceImpl.class
+com\itheima\service\PermissionService.class
